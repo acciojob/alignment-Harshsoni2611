@@ -11,6 +11,9 @@ table,td,tr{
 .blue{
 	background-color:blue;
 }
-.middle{
+.center{
 	text-align: center;
+}
+.right{
+text-align:right;
 }
